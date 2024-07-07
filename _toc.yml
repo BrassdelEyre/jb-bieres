@@ -1,0 +1,46 @@
+# Table of contents
+# Learn more at https://jupyterbook.org/customize/toc.html
+
+format: jb-book
+root: intro
+parts:
+  - caption: ""
+    chapters: 
+    - file: to-do
+  - caption: 📌 En ce Moment!
+    chapters: 
+    - file: Acheter
+    - file: Preventes
+    - file: Brassage     
+  - caption: 🍺 Nos Variétés
+    chapters:
+    - file: Archives/Liste/Varietes
+    - file: Archives/Liste/PremiEyre/PremiEyre
+      sections:
+      - file: Archives/Liste/PremiEyre/V5_CuvEyre/V5-CuvEyre 
+      - file: Archives/Liste/PremiEyre/V4_Harvest/V4-Harvest
+      - file: Archives/Liste/PremiEyre/V3/V3-Premieyre 
+      - file: Archives/Liste/PremiEyre/V2/V2-Premieyre   
+      - file: Archives/Liste/PremiEyre/V1/V1-Premieyre      
+    - file: Archives/Liste/Trenteneyre/Trenteneyre
+      sections:
+      - file: Archives/Liste/Trenteneyre/V2-Remy/V2-Trenteneyre 
+      - file: Archives/Liste/Trenteneyre/V1-Alex/V1-Trenteneyre
+    - file: Archives/Liste/DeglinguEyre/DeglinguEyre
+      sections:
+      - file: Archives/Liste/DeglinguEyre/V1/V1-Deglingueyre
+    - file: Archives/Liste/AmEyre/AmEyre
+    - file: Archives/Liste/MusicalEyre/MusicalEyre
+    - file: Archives/Liste/NeipalEyre/NeipalEyre
+    - file: Archives/Liste/PeuchEyre/PeuchEyre
+    - file: Archives/Liste/SanginEyre/SanginEyre
+    - file: Archives/Liste/Triple-Rouste/Triple-Rouste
+    - file: Archives/Liste/SolEyre/SolEyre
+    - file: Archives/Liste/BlackpintEyre/BlackpintEyre
+
+
+
+
+    
+
+
